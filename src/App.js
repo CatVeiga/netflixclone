@@ -70,7 +70,7 @@ export default () => {
 
         {movieList.length <= 0 && 
         <div className="loading">
-          <img src="https://media.filmelier.com/noticias/br/2020/03/Netflix_LoadTime.gif" alt="loading netfix" />
+          <img src="https://www.rchandru.com/images/portfolio/loading.gif" alt="loading netfix" />
         </div>
         }
     </div>
